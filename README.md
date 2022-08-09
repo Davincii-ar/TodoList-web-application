@@ -3,14 +3,13 @@
 ## Laravel 5.8 and React 16.2.0 boilerplate
 
 Please follow the guide.
-
-1. `git clone https://github.com/berandakreatif/Laravel-Reactjs-Starterkit.git`
-2. `update the .env file along with database connection`
-3. `composer install && composer update`
-4. `php artisan migrate`
-5. `npm install`
-6. `php artisan serve`
-7. `register`
+ 
+1. `update the .env file along with database connection`
+2. `composer install && composer update`
+3. `php artisan migrate`
+4. `npm install`
+5. `php artisan serve`
+6. `register`
 
 ## Running Application
 1. open terminal and run command `php artisan serve`
@@ -19,10 +18,6 @@ Please follow the guide.
 
 3. Login with username and password
 
-**OR**
-
-for starterkit Laravel & Reactjs follow the link below
-    [Laravel & React Js Starterkit](https://github.com/berandakreatif/Laravel-Reactjs-Starterkit)
 
 ## Features
 - [x] Laravel 5.8 Version
