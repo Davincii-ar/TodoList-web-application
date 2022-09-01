@@ -19,7 +19,7 @@ Please follow the guide.
 3. Login with username and password
 
 
-## Features:
+## Features
 - [x] Laravel 5.8 Version
 - [x] React 16.2 Version
 - [x] Basic Authentication Laravel
